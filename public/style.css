@@ -1,0 +1,139 @@
+/* 
+ My Stuff
+*/
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	width: 100vw;
+	height: 100vh;
+}
+
+html {
+	font-size: 18px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+		Ubuntu, "Helvetica Neue", Oxygen, Cantarell, sans-serif;
+	line-height: 1.15;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-size: 3vw;
+}
+
+.main {
+	height: 100vh;
+	width: 100vw;
+	background: #28b128;
+	color: white;
+	padding: 10px;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.main h1 {
+	text-align: center;
+	font-size: 4em;
+	margin: 5px 0;
+}
+
+.main ul {
+	list-style: none;
+	padding: 0;
+}
+
+.main ul li {
+	text-align: center;
+	font-size: 3em;
+}
+
+.main ul li a {
+	color: inherit;
+}
+
+.main .star {
+	display: block;
+	margin: 0 auto 60px auto;
+}
+
+@media screen and (min-width: 680px) {
+	body {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 20px;
+		font-size: 16px;
+	}
+	.main {
+		max-width: 800px;
+		height: auto;
+		border-radius: 8px;
+	}
+	.main h1 {
+		font-size: 4em;
+	}
+	.main ul li {
+		font-size: 3em;
+	}
+	.main .star {
+		position: absolute;
+		top: -25px;
+		right: -25px;
+		fill: #043504;
+	}
+}
+
+/* 
+p {
+  font-size: 1rem;
+  color: #ffffff;
+  line-height: 1.5;
+}
+
+a {
+  color: #edd69f;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+  color: #f0b521;
+}
+
+body {
+  font-size: 1em;
+}
+
+blockquote {
+  position: relative;
+}
+
+blockquote:before {
+  content: "";
+  position: absolute;
+  left: -1.5em;
+  top: 0;
+  bottom: 0;
+  width: 0.3rem;
+  background-image: url("/public/images/dither.svg");
+  background-repeat: repeat-y;
+  background-size: 0.75rem;
+}
+
+pre {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 1em;
+  border-image: url("/public/images/dither.svg") 20 / 5px 5px 5px 5px / 5px 5px
+    5px 5px / round;
+} */
