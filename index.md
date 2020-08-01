@@ -7,4 +7,4 @@
 
 - Enjoy movies? TV? Read Justin's thoughts on [Instagram](https://www.instagram.com/jibjabjerbs/).
 
-##### *Huge thank you to [Theo Syslack](https://www.theosyslack.com) for helping get this site off the ground... again.*
+##### *Huge thank you to [Theo Syslack](https://theosyslack.com/) for helping get this site off the ground... again.*
