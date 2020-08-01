@@ -2,8 +2,7 @@
 <path d="m55,237 74-228 74,228L9,96h240"/>
 </svg>
 
-# Justin Jabs
+# Welcome to JustinJabs.com
+*This site is a work in progress.*
 
-- [Instagram](https://www.instagram.com/jibjabjerbs/)
-
-# Hi Theo
+- Enjoy movies? TV? Read Justin's thoughts on [Instagram](https://www.instagram.com/jibjabjerbs/).
