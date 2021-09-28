@@ -5,6 +5,6 @@
 # Welcome to JustinJabs.com
 *This site is a work in progress.*
 
-- Enjoy movies? TV? Read Justin's thoughts on [Instagram](https://www.instagram.com/jibjabjerbs/).
+- Enjoy movies? TV? Other things? Read Justin's thoughts on [Instagram](https://www.instagram.com/jibjabjerbs/).
 
 ##### *Huge thank you to [Theo Syslack](https://theosyslack.com/) for helping get this site off the ground... again.*
